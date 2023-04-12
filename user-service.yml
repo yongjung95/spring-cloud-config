@@ -7,6 +7,6 @@ spring:
 
 token:
   expiration_time: 464000000
-  secret: MY_SECRET_20221215
+  secret: my_token_default
 gateway:
   ip: 172.18.0.5
