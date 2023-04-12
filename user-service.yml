@@ -5,6 +5,9 @@ spring:
     username: sa
     password: '{cipher}5a5981d03efb996ad072f87762d9d5d9bd7ca5fd6a9fcba314c84122202c4f9d'
 
+gateway:
+  ip: 172.18.0.5
+
 token:
   expiration_time: 464000000
   secret: MY_SECRET_20221215
